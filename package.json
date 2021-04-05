@@ -1,6 +1,7 @@
 {
   "name": "vue-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": "Darrin C. Ezell",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

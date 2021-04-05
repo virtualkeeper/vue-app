@@ -1,5 +1,8 @@
 # vue-app
 
+###
+A test bed of code for checking out Vue a bit deeper. Email chief@virtualkeeper.com for any questions.
+
 ## Project setup
 ```
 npm install
